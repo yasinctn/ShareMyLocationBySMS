@@ -148,6 +148,9 @@
 				DEVELOPMENT_TEAM = M3L7HK72ZK;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ShareMyLocationBySMS/Info.plist;
+				INFOPLIST_KEY_NSContactsUsageDescription = "Kişilere erişmek istiyoruz.";
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "Konumunu almak için izin gereklidir.";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Konumunu almak için izin gereklidir.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -176,6 +179,9 @@
 				DEVELOPMENT_TEAM = M3L7HK72ZK;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ShareMyLocationBySMS/Info.plist;
+				INFOPLIST_KEY_NSContactsUsageDescription = "Kişilere erişmek istiyoruz.";
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "Konumunu almak için izin gereklidir.";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Konumunu almak için izin gereklidir.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
